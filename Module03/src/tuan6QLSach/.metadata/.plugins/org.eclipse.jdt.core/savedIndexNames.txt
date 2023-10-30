@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+C:\Users\Student\Downloads\NguyenThaoUyen20072171_76\src\tuan6QLSach\.metadata\.plugins\org.eclipse.jdt.core
+2934602962.index
+1552042055.index

@@ -1,0 +1,2 @@
+INDEX VERSION 1.134+T:\NGUYENPHUSANG_WORKSPACE\.metadata\.plugins\org.eclipse.jdt.core
+2060265928.index

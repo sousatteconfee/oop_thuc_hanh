@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="javax.sound.midi.SysexMessage"/>
+    <fullyQualifiedTypeName name="java.lang.Boolean"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="nguyenPhuSang.Bai08.SinhVien"/>
+    <fullyQualifiedTypeName name="java.util.Locale"/>
+    <fullyQualifiedTypeName name="java.text.NumberFormat"/>
+    <fullyQualifiedTypeName name="java.time.Period"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="bai04.DiemSinhVien"/>
+    <fullyQualifiedTypeName name="bai13.DanhSachCongNhan"/>
+    <fullyQualifiedTypeName name="bai13.CongNhan"/>
+    <fullyQualifiedTypeName name="bai01.ChuyenXeNgoaiThanh"/>
+    <fullyQualifiedTypeName name="bai01.ChuyenXeNoiThanh"/>
+    <fullyQualifiedTypeName name="javax.swing.filechooser.FileSystemView"/>
+    <fullyQualifiedTypeName name="nguyenPhuSang.bai02.SachGiaoKhoa"/>
+    <fullyQualifiedTypeName name="nguyenPhuSang.bai02.SachThamKhao"/>
+    <fullyQualifiedTypeName name="java.time.format.DateTimeFormatter"/>
+    <fullyQualifiedTypeName name="nguyenPhuSang.bai02.Sach"/>
+    <fullyQualifiedTypeName name="nguyenPhuSang.bai04.GiaoDichVang"/>
+    <fullyQualifiedTypeName name="nguyenPhuSang.bai04.GiaoDichTienTe"/>
+    <fullyQualifiedTypeName name="java.time.LocalDate"/>
+</qualifiedTypeNameHistroy>
